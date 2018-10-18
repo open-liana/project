@@ -1,0 +1,16 @@
+{
+    "name": "open-liana/project",
+    "description": "Open Liana PHP Framework",
+    "type": "project",
+    "require": {
+        "open-liana/framework": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arif Hidayat",
+            "email": "af.hidayat95@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
